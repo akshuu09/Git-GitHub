@@ -1,2 +1,3 @@
 # Git-GitHub
 This is git and github repository
+Author - Akshta Shinde
